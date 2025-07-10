@@ -14,7 +14,7 @@ I'm a frontend & mobile developer currently learning React and React Native thro
 
 
 
-<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230">
+<img align='right' src="https://media.giphy.com/media/cIn5fTcjnKhStIeAef/giphy.gif" width="230"><br>
 
 ### 💼 Career
 
@@ -43,13 +43,16 @@ I'm a frontend & mobile developer currently learning React and React Native thro
       <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-    -<td align='center'>
+    <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/gitlab.svg" width="60">
     </td>
     <!--<td align='center'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>-->
       <td align='center'>
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/git.svg" width="60">
+    </td>
+  <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/git.svg" width="60">
     </td>
 </tr>
