@@ -33,10 +33,7 @@ I'm a frontend & mobile developer currently learning React and React Native thro
     <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/html5.svg" width="60">
     </td>
-    <td align='center'>
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" width="60">
-    </td>
-      <td align='center'>
+        <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="60">
     </td>
       </td>
@@ -50,9 +47,6 @@ I'm a frontend & mobile developer currently learning React and React Native thro
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>-->
       <td align='center'>
-        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/git.svg" width="60">
-    </td>
-  <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/git.svg" width="60">
     </td>
 </tr>
