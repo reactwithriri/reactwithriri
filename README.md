@@ -3,7 +3,7 @@
 [![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mrnjoka254@gmail.com)](mailto:mrnjoka254@gmail.com)
 <!--[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)-->
 
-# Hi, I'm Mathew.
+# Hi, I'm Riri,
 
 #### Welcome to my Lab!
 
