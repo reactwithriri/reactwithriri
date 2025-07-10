@@ -1,6 +1,6 @@
 [![Linkedin](https://img.shields.io/badge/Mathew-Riri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathew-njoka/)](https://www.linkedin.com/in/mathew-njoka/)
 [![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://www.gitlab.com/mathew-njoka)
-[![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mrnjoka254@gmail.com)](mailto:mrnjoka254@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mrnjoka254@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mrnjoka254@gmail.com)](mailto:mrnjoka254@gmail.com)
 <!--[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)-->
 
 # Hi, I'm Riri,
