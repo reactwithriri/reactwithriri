@@ -1,4 +1,4 @@
-[![Linkedin](https://img.shields.io/badge/peter-wachira-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathew-njoka/)](https://www.linkedin.com/in/mathew-njoka/)
+[![Linkedin](https://img.shields.io/badge/Mathew-Riri-blue?style=flat&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/mathew-njoka/)](https://www.linkedin.com/in/mathew-njoka/)
 [![Gitlab](https://img.shields.io/badge/Gitlab%20-blue?style=flat&logo=Gitlab&logoColor=white)](https://www.gitlab.com/mathew-njoka)
 [![Gmail](https://img.shields.io/badge/-pwachira900@gmail.com-d14836?style=flat&logo=Gmail&logoColor=white&link=mailto:mrnjoka254@gmail.com)](mailto:mrnjoka254@gmail.com)
 <!--[![CodeWars](https://img.shields.io/badge/CodeWars%20-brightgreen.svg)](https://www.codewars.com/users/peethack)-->
@@ -31,10 +31,10 @@ I'm a frontend & mobile developer currently learning React and React Native thro
 </tr>
 <tr>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/android/git-scm-ar21.svg">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/html5.svg" width="60">
     </td>
     <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/kotlinlang/w3_html5-ar21.svg">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/css3.svg" width="60">
     </td>
       <td align='center'>
         <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/javascript.svg" width="60">
@@ -43,14 +43,14 @@ I'm a frontend & mobile developer currently learning React and React Native thro
       <td align='center'>
         <img src="https://raw.githubusercontent.com/devicons/devicon/0d6c64dbbf311879f7d563bfc3ccf559f9ed111c/icons/css3/css3-original-wordmark.svg" width="60">
     </td>
-     <!--<td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/w3c_xml/w3c_xml-ar21.svg">
+    -<td align='center'>
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/gitlab.svg" width="60">
     </td>
-    <td align='center'>
+    <!--<td align='center'>
         <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-ar21.svg">
     </td>-->
       <td align='center'>
-        <img src="https://www.vectorlogo.zone/logos/gitlab/gitlab-ar21.svg">
+        <img src="https://raw.githubusercontent.com/detain/svg-logos/780f25886640cef088af994181646db2f6b1a3f8/svg/git.svg" width="60">
     </td>
 </tr>
  <!-- <tr>
@@ -106,20 +106,15 @@ I'm a frontend & mobile developer currently learning React and React Native thro
 </table>
 
 
-### 🎉 Things that make me, me
+<!--### 🎉 Things that make me, me
 
 *  I love teaching others about tech & programming & collaborating with other amazing devs 🤼
 *  Beginner guitar play player 🎸
-*  Lets connect: https://peterwachira.com
+*  Lets connect: https://peterwachira.com-->
 
 ## My Projects
 
-Check out some of my more interesting production-level projects (in no particular order):
-https://peterwachira.com/
+Don't Panic I will be filling this soon 😊
 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira)](https://github.com/laisbsc/github-readme-stats)
-
-<!-- 
-[![Peter's github stats](https://github-readme-stats.vercel.app/api?username=peter-wachira&show_icons=true&title_color=d128d4&icon_color=28d442&text_color=dbdae3&bg_color=162024)](https://github.com/peter-wachira) -->
 
 >
